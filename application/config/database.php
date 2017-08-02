@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['local'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '123',
+	'hostname' => 'mysql796.umbler.com',
+	'username' => 'checkme',
+	'password' => '18055054a',
 	'database' => 'checkme',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
