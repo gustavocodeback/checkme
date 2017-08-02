@@ -1,0 +1,15 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+#wrapper {
+    float: right;
+    width: calc( 100% - 300px );
+    background: #f1f1f1;
+}
+
+@media only screen and (max-width : 992px) {
+    #wrapper {
+        width: 100%;
+    }
+}
